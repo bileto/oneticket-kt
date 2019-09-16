@@ -1,0 +1,10 @@
+.gradle/*
+.idea/*
+.settings/*
+build/*
+*.iml
+*.ipr
+*.iws
+
+# Private test API resources
+src/test/resources/private/*
